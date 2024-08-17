@@ -1,4 +1,4 @@
-# Blog Mastery Website
+# Corso Training Website
 > Website where you can find information about training courses, workshops, seminars, etc., made with Bootstrap.
 > Live demo [_here_](https://corso-training-website-gold.vercel.app/).
 
